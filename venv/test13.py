@@ -16,3 +16,4 @@ for iNum in guess_list:
 
 
 print("success" + str(hit_count))
+print(":")
